@@ -1,8 +1,8 @@
 ## First Steps
-[Tutorials](https://github.com/Xyna-Factory/xyna/wiki/Tutorials)
-[Installation](https://github.com/Xyna-Factory/xyna/wiki/Installation)
-[How to contribute](https://github.com/Xyna-Factory/xyna/wiki/Contribution)
-[Wiki](https://github.com/Xyna-Factory/xyna/wiki)
+[Tutorials](https://github.com/Xyna-Factory/xyna/wiki/Tutorials) &nbsp; &nbsp;
+[Installation](https://github.com/Xyna-Factory/xyna/wiki/Installation) &nbsp; &nbsp;
+[How to contribute](https://github.com/Xyna-Factory/xyna/wiki/Contribution) &nbsp; &nbsp;
+[Wiki](https://github.com/Xyna-Factory/xyna/wiki) &nbsp; &nbsp;
 
 
 ## What is Xyna
