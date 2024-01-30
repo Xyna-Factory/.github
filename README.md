@@ -1,5 +1,5 @@
-# .github
-Welcome to Xyna
+
+# Welcome to Xyna
 
 First Steps
 
