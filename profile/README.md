@@ -1,6 +1,6 @@
 
 # Welcome to Xyna
-## This page is under construction, you'll find information about Xyna itself and your first steps with Xyna here in a short term
+## *** This page is under construction, you'll find information about Xyna itself and your first steps with Xyna here in a short term ***
 ## First Steps
 [Tutorials](https://github.com/Xyna-Factory/xyna/wiki/Tutorials)
 [Installation](https://github.com/Xyna-Factory/xyna/wiki/Installation)
