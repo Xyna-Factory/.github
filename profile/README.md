@@ -15,12 +15,12 @@
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://user-images.githubusercontent.com/107180330/173100035-d6b447d7-841d-4001-9254-01d3ad7be334.svg"
-      width="100"
+      width="200"
     />
     <img
       alt="Xyna logo"
       src="https://user-images.githubusercontent.com/107180330/173533108-f8fe97bd-c984-401b-b7ab-0e283ea053e4.svg"
-      width="100"
+      width="200"
     />
   </picture>
 </div>
