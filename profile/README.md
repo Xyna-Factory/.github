@@ -3,6 +3,7 @@
 [Installation](https://github.com/Xyna-Factory/xyna/wiki/Installation) &nbsp; &nbsp;
 [How to contribute](https://github.com/Xyna-Factory/xyna/wiki/Contribution) &nbsp; &nbsp;
 [Wiki](https://github.com/Xyna-Factory/xyna/wiki) &nbsp; &nbsp;
+[YouTube](https://www.youtube.com/@XynaTV/videos) &nbsp; &nbsp;
 
 
 ## What is Xyna
