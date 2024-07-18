@@ -5,6 +5,7 @@
 [Wiki](https://github.com/Xyna-Factory/xyna/wiki) &nbsp; &nbsp;
 [YouTube](https://www.youtube.com/@XynaTV/videos) &nbsp; &nbsp;
 [Docker](https://github.com/Xyna-Factory/xyna/wiki/Xyna-with-Docker) &nbsp; &nbsp;
+[XCCE](https://github.com/Xyna-Factory/xyna/wiki/XCCE) &nbsp; &nbsp;
 
 ## What is Xyna?
 
