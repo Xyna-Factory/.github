@@ -1,4 +1,4 @@
-## Complete Documentation and frist steps can be found un our wiki
+## Complete Documentation and frist steps can be found on our wiki
 [Wiki](https://github.com/Xyna-Factory/xyna/wiki) &nbsp; &nbsp;
 
 ## What is Xyna?
